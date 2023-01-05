@@ -22,3 +22,10 @@ git commit -am "changes feature/adrian"
 
 ## Push changes
 git push
+
+## Update master branch from Source master
+git pull source master
+
+git merge source/master master
+
+git push
